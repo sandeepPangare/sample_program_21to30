@@ -5,8 +5,8 @@ public class PerfectSquare {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter an integer");
-        int num = scanner.nextInt();
-
+        int num = scanner.nextInt();  //2,5,4is a perfect square
+                                        //12,6,8 is not perfect 2
         int flag=0;
         for (int i=1; i<=num; i++){
             if (num==i*i){
