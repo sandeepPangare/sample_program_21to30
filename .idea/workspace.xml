@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb84c4cf-8dcb-43d5-8c13-18e343f71f2b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbudantNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbudantNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PerfectSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PerfectSquare.java" afterDir="false" />
-    </list>
+    <list default="true" id="fb84c4cf-8dcb-43d5-8c13-18e343f71f2b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="PrimeFactorOfANumber" />
+        <entry key="$PROJECT_DIR$" value="PerfectSquare" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,9 +41,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PerfectNumber">
+  <component name="RunManager" selected="Application.HighestCommonFactor">
     <configuration name="AbudantNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbudantNumber" />
+      <module name="sample_program_21to30" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighestCommonFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestCommonFactor" />
       <module name="sample_program_21to30" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeFactorsOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeFactorsOfANumber" />
-      <module name="sample_program_21to30" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StrongNumber" />
       <module name="sample_program_21to30" />
@@ -83,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighestCommonFactor" />
         <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.AbudantNumber" />
         <item itemvalue="Application.PerfectSquare" />
         <item itemvalue="Application.StrongNumber" />
-        <item itemvalue="Application.PrimeFactorsOfANumber" />
       </list>
     </recent_temporary>
   </component>
